@@ -20,4 +20,4 @@ Kafka can be integrated into this system to improve scalability, reliability, an
     - WebSocket Service: Consumes Kafka messages and pushes real-time updates to connected WebSocket clients.
 
 # Conclusion
-Integrating Kafka provides a robust event-driven architecture, making the system more scalable and resilient. Would you like help integrating Kafka fully into your application?
+Integrating Kafka provides a robust event-driven architecture, making the system more scalable and resilient
